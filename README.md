@@ -1,2 +1,4 @@
 # MachineLearningDrugDiscovery
-Drug Discovery Project using ML and large Databases
+Drug Discovery Project using ML and large Chembly. Currently I have the data collected, processed, and curated.
+Next steps involve using Lipinski factors to identify candidates. Primary issue is resolving a library discrepancy 
+within the conda environment preventing RDkit from working.
